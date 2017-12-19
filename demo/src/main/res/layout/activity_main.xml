@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button Example"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnCompoundButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CompoundButton Example"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="EditText Example"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnImageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ImageView Example"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView Example"
+        android:textAllCaps="false" />
+
+</LinearLayout>
