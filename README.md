@@ -20,7 +20,7 @@ allprojects {
 *app/build.gradle*
 ```
 dependencies {
-    implementation 'com.github.WindSekirun:ViewTransformer:0.1.'
+    implementation 'com.github.WindSekirun:ViewTransformer:0.1.0'
 }
 ```
 
